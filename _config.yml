@@ -50,7 +50,7 @@ skills_title: Skills
 # > setting this to true, will display the Timeline section
 # > setting this to false, will omit the Timeline section
 show_education_card: true
-education_title: Education
+education_title: Education & Training
 show_timeline_card: true
 # timeline_title: The will be displayed as the title in the Timeline section
 timeline_title: Experience
