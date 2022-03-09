@@ -46,10 +46,41 @@
     - tag: Dart
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
+- title: Legato Technology
+  title-url: https://legatobd.com/
+  date: Jun 2018 - Aug 2020
+  subtitle: Senior Software Developer
+  tags:
+    - tag: Android
+    - tag: Flutter
+    - tag: Java
+    - tag: Kotlin
+    - tag: Dart
+    - tag: PHP
+    - tag: JavaScript
+    - tag: CSS
+  timeline-side: left
+
+- title: PsychoDevs - Freelance 
+  title-url: #
+  date: Mar 2018 - Jul 2019
+  subtitle: Android Developer
+  tags:
+    - tag: Android
+    - tag: Flutter
+    - tag: Java
+    - tag: Kotlin
+    - tag: Dart
+  timeline-side: right
+
+- title: Legato Technology
+  title-url: https://legatobd.com/
+  date: Dec 2017 - May 2018
+  subtitle: Software Engineer
+  tags:
+    - tag: Android
+    - tag: Java
+    - tag: Kotlin
   timeline-side: left
 
 - title: Facebook
