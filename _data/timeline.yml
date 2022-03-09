@@ -33,16 +33,16 @@
   timeline-side: left
 
  - title: BrandStudioLab - Freelance 
-    title-url: https://codecanyon.net/user/brandstudio7
-    date: Nov 2019 - Present
-    subtitle: Android Developer
-    tags:
-      - tag: Android
-      - tag: Flutter
-      - tag: Java
-      - tag: Kotlin
-      - tag: Dart
-    timeline-side: right
+   title-url: https://codecanyon.net/user/brandstudio7
+   date: Nov 2019 - Present
+   subtitle: Android Developer
+   tags:
+     - tag: Android
+     - tag: Flutter
+     - tag: Java
+     - tag: Kotlin
+     - tag: Dart
+   timeline-side: right
 
 - title: Legato Technology
   title-url: https://legatobd.com/
@@ -59,8 +59,6 @@
     - tag: CSS
   timeline-side: left
 
- 
-
 - title: PsychoDevs - Freelance 
   title-url: #
   date: Mar 2018 - Jul 2019
@@ -73,7 +71,6 @@
     - tag: Dart
   timeline-side: right
 
-
 - title: Legato Technology
   title-url: https://legatobd.com/
   date: Dec 2017 - May 2018
@@ -83,6 +80,7 @@
     - tag: Java
     - tag: Kotlin
   timeline-side: left
+  
 
 - title: Legato Technology
   title-url: https://legatobd.com/
