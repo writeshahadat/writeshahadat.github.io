@@ -33,7 +33,7 @@ twitter_username: exampleUser
 # > setting this to false, will omit the About Me section
 show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
-about_me_title: About Me
+about_me_title: Who Am I
 # about_me_description: This will be displayed under the title.
 about_me_description: Employed & Freelance Software Engineer working on Android, Flutter & Laravel. Science, Technology & DIY enthusiast by heart. Self-taught Programmer. Tinker with tech or Travel to nature while not working. Check out my <a class="highlight-link" href="https://github.com/writeshahadat/" target="_blank" rel="noreferrer"> Github </a>. You can also find me on <a class="highlight-link" href="https://linkedin.com/" target="_blank" rel="noreferrer">LinkedIn.</a>
 
