@@ -30,7 +30,7 @@
     - tag: CSS
     - tag: Jekyll
     - tag: MVC
-  timeline-side: right
+  timeline-side: left
 
  - title: BrandStudioLab - Freelance 
     title-url: https://codecanyon.net/user/brandstudio7
@@ -42,7 +42,7 @@
       - tag: Java
       - tag: Kotlin
       - tag: Dart
-    timeline-side: left
+    timeline-side: right
 
 - title: Legato Technology
   title-url: https://legatobd.com/
