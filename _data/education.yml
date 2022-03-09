@@ -17,47 +17,21 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
-  tags:
-    - tag: React
-    - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
-  timeline-side: right
-
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
-  tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
-  timeline-side: right
-
-
-
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
-  tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
-  timeline-side: right
 
 - title: American International University - Bangladesh
   title-url: https://www.aiub.edu/
   date: 2012 - 2016
   subtitle: B.Sc. in Computer Science
-  timeline-side: right
+  timeline-side: left
 
 - title: Dhaka Imperial College
   title-url: https://imperialcollege.edu.bd/
   date: 2008 - 2010
   subtitle: H.S.C. in Science
+  timeline-side: right
+
+- title: Khalilur Rahman High School
+  title-url: https://www.facebook.com/KhalilurRahamanHighSchool
+  date: 2006 - 2008
+  subtitle: S.S.C. in Science
   timeline-side: left
