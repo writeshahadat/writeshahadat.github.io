@@ -40,11 +40,11 @@
 - name: project Z
   descr: "You can also set a project without demo link and no tags"
   demo: 
-    tags:
-      - tag: Android
-      - tag: Kotlin
-      - tag: XML
-      - tag: Firebase
-      - tag: Online
-      - tag: Multi-Player
-      - tag: Game
+  tags:
+    - tag: Android
+    - tag: Kotlin
+    - tag: XML
+    - tag: Firebase
+    - tag: Online
+    - tag: Multi-Player
+    - tag: Game
