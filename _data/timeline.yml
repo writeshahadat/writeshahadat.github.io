@@ -83,18 +83,12 @@
     - tag: Kotlin
   timeline-side: left
 
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
+- title: Legato Technology
+  title-url: https://legatobd.com/
+  date: Nov 2016 - Nov 2017
+  subtitle: Juinior Software Engineer
   tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
-  timeline-side: right
-
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
+    - tag: Android
+    - tag: Java
+    - tag: Kotlin
   timeline-side: left
