@@ -22,10 +22,10 @@ email: writeshahadat@gmail.com
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
 github_username: writeshahadat
-codepen_username: exampleUser
-dev_username: exampleUser
-linkedin_username: exampleUser
-twitter_username: exampleUser
+codepen_username: writeshahadat
+dev_username: writeshahadat
+linkedin_username: writeshahadat
+twitter_username: shahadat37
 
 # ABOUT ME SECTION
 # show_aboutme_card:
@@ -33,7 +33,7 @@ twitter_username: exampleUser
 # > setting this to false, will omit the About Me section
 show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
-about_me_title: Who Am I
+about_me_title: About
 # about_me_description: This will be displayed under the title.
 about_me_description: 
 
