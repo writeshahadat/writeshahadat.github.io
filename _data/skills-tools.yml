@@ -8,20 +8,14 @@
 - name: Git
   weight: 5
 
+- name: Android Studio
+  weight: 5
+
 - name: Bash
   weight: 3
 
-- name: Scrum
+- name: Jira
   weight: 3
-
-- name: Travis CI
-  weight: 1
-
-- name: Jenkins
-  weight: 1
-
-- name: Chrome DevTools
-  weight: 2
 
 - name: npm
   weight: 2

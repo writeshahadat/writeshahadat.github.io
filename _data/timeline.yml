@@ -38,11 +38,7 @@
     - tag: Keycloak
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
-  timeline-side: left
+
 
 - title: Facebook
   title-url: https://example.com/
@@ -54,8 +50,14 @@
     - tag: Javascript
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
+- title: American International University - Bangladesh
+  title-url: https://www.aiub.edu/
+  date: 2012 - 2016
+  subtitle: B.Sc. Computer Science
+  timeline-side: right
+
+- title: Dhaka Imperial College
+  title-url: https://imperialcollege.edu.bd/
+  date: 2008 - 2010
+  subtitle: H.S.C. in Science
   timeline-side: left
