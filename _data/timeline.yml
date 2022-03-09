@@ -47,9 +47,21 @@
     - tag: CSS
   timeline-side: left
 
+  - title: BrandStudioLab - Freelance 
+    title-url: https://codecanyon.net/user/brandstudio7
+    date: Nov 2019 - Present
+    subtitle: Android Developer
+    tags:
+      - tag: Android
+      - tag: Flutter
+      - tag: Java
+      - tag: Kotlin
+      - tag: Dart
+    timeline-side: left
+
 - title: PsychoDevs - Freelance 
   title-url: #
-  date: Mar 2018 - Dec 2019
+  date: Mar 2018 - Jul 2019
   subtitle: Android Developer
   tags:
     - tag: Android
