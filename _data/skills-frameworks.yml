@@ -14,9 +14,6 @@
 - name: Flutter
   weight: 3
 
-- name: Spring
-  weight: 1
-
 - name: Rails
   weight: 2
 

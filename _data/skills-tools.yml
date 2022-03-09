@@ -20,9 +20,6 @@
 - name: npm
   weight: 2
 
-- name: gulp
-  weight: 4
-
 - name: VS Code
   weight: 3
 

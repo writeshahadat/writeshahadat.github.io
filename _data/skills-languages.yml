@@ -17,9 +17,6 @@
 - name: HTML5
   weight: 4
 
-- name: Swift
-  weight: 1
-
 - name: C
   weight: 1
 
