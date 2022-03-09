@@ -26,5 +26,5 @@
 - name: Postman
   weight: 4
 
-  - name: Visual Studio
+- name: Visual Studio
   weight: 2
