@@ -17,20 +17,16 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: Lusaka Group
-  title-url: https://www.lusakagroupbd.com/
-  date: Sep 2020 - Present
-  subtitle: Development Team Lead
+- title: airbnb
+  title-url: https://example.com/
+  date: Sep 2019 - Present
+  subtitle: Fullstack Developer
   tags:
-    - tag: Android
-    - tag: Flutter
-    - tag: PHP
-    - tag: ASP.NET
-    - tag: JavaScript
-    - tag: CSS
-    - tag: Jekyll
-    - tag: MVC
-  timeline-side: left
+    - tag: React
+    - tag: Javascript
+    - tag: Ruby
+    - tag: Rails
+  timeline-side: right
 
  
 
