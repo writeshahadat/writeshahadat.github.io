@@ -37,8 +37,8 @@
     - tag: Multi-Player
     - tag: Game
 
-- name: Think Hopeful - Under Development
-  descr: "Mental wellness support platform for organization based online anonymous platform worked as part of job responsibility like requirements gathering, maintaining project timeline, managing team etc."
+- name: Think Hopeful
+  descr: "Anonymous mental wellness online support platform for organization based users worked as part of job responsibility like requirements gathering, maintaining project timeline, managing team etc."
   demo: https://www.thinkhopeful.com/
   tags:
     - tag: C#
@@ -49,9 +49,9 @@
 
 
 
-- name: ARC CRM - Under Development
+- name: ARC CRM
   descr: "Customer Relationship Management for Canada based company ARC Survey as part of job responsibility like requirements gathering, maintaining project timeline, managing team, database design etc."
-  demo: https://www.thinkhopeful.com/
+  demo: https://www.arcsurveys.ca/
   tags:
     - tag: PHP
     - tag: Laravel
