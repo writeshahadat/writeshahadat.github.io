@@ -60,6 +60,17 @@
     - tag: Twilio API
 
 
-
+- name: BTRC Internal Administrative Services 
+  descr: "Internal Administrative Services developed for managing various internal services like Office Supply, Furniture & IT Equipments Requisition & Allotment, Meeting Room Management & Allotment, Refreshments & IT Support, Car Allotment & Managing IT Support Ticket Management for BTRC Officers as a stepping stone to paperless office."
+  demo: http://103.98.64.124/
+  tags:
+    - tag: PHP
+    - tag: Laravel
+    - tag: JavaScript
+    - tag: MySQL
+    - tag: Twilio API
+    - tag: GP VTS
+    - tag: Resource Management System
+    - tag: Internal Administrative Services
 
 
