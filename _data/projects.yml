@@ -61,7 +61,7 @@
 
 
 - name: BTRC Internal Administrative Services 
-  descr: "Internal Administrative Services developed for managing various internal services like Office Supply, Furniture & IT Equipments Requisition & Allotment, Meeting Room Management & Allotment, Refreshments & IT Support, Car Allotment & Managing IT Support Ticket Management for BTRC Officers as a stepping stone to paperless office."
+  descr: "Internal Administrative Services is developed for managing various internal services like Office Supply, Furniture & IT Equipments Requisition & Allotment, Meeting Room Management & Allotment, Refreshments & IT Support, Car Allotment & Managing IT Support Ticket Management for BTRC Officers as a stepping stone to paperless office."
   demo: http://103.98.64.124/
   tags:
     - tag: PHP
@@ -73,3 +73,14 @@
     - tag: Resource Management System
 
 
+- name: LGED Vehicle Management System 
+  descr: "Vehicle Management System is developed for managing the entire fleet of vehicle owned & managed by the Local Governement Engineering Department (LGED)"
+  demo: http://103.140.64.98/vms
+  tags:
+    - tag: ASP.Net
+    - tag: MVC
+    - tag: JavaScript
+    - tag: SQL
+    - tag: Oracle
+    - tag: GP VTS
+    - tag: Resource Management System
