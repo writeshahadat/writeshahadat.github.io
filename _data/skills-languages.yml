@@ -12,7 +12,7 @@
   weight: 4
 
 - name: Dart
-  weight: 2
+  weight: 3
 
 - name: HTML5
   weight: 4

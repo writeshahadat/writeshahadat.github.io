@@ -28,3 +28,9 @@
 
 - name: Visual Studio
   weight: 2
+
+- name: Trello
+  weight: 4
+
+- name: Asana
+  weight: 3

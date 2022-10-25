@@ -22,3 +22,9 @@
 
 - name: ASP.NET
   weight: 2
+
+- name: Agile
+  weight: 3
+
+- name: Scrum
+  weight: 2
