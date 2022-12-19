@@ -1,6 +1,6 @@
 {
     "name": "Shahadat Portfolio",
-    "short_name": "SP",
+    "short_name": "Shahadat Portfolio",
     "description": "Personal Portfolio Page as a PWA",
     "scope": "/",
     "start_url": "/",  
