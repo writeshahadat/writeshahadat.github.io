@@ -3,6 +3,7 @@
     "short_name": "Shahadat Portfolio",
     "description": "Personal Portfolio Page as a PWA",
     "scope": "/",
+    "id": "writeshahadat.github.io",
     "start_url": "/",  
     "background_color": "#ffffff",
     "theme_color": "#ffffff",  
