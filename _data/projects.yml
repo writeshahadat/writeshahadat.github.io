@@ -14,7 +14,7 @@
 #     - tag: Node
 
 - name: My Ludo
-  descr: "One of several Ludo Multi-Player Online Game project I have worked on over the year as a Freelance work."
+  descr: "One of several Ludo Multi-Player Online Game project I have worked on over the years as a Freelance work."
   demo: https://play.google.com/store/apps/details?id=com.myfavgame.myludo
   tags:
     - tag: Android
@@ -26,7 +26,7 @@
     - tag: Game
 
 - name: Ludo Time
-  descr: "Developed the Online Multi-Player Game as part of BrandStudioLab with 2 other team members."
+  descr: "Developed the Online Multi-Player Game as part of BrandStudioLab Team with 2 other team members."
   demo: https://codecanyon.net/item/ludo-time-multiplayer-online-ludo-game/32974811
   tags:
     - tag: Android
@@ -74,7 +74,7 @@
 
 
 - name: LGED Vehicle Management System 
-  descr: "Vehicle Management System is developed for managing the entire fleet of vehicle owned & managed by the Local Governement Engineering Department (LGED)"
+  descr: "Vehicle Management System is developed for managing the entire fleet of vehicle owned & managed by the Local Governement Engineering Department (LGED) which has the largest fleet in Government sector"
   demo: http://103.140.64.98/vms
   tags:
     - tag: ASP.Net
@@ -83,3 +83,28 @@
     - tag: SQL
     - tag: Oracle
     - tag: Resource Management System
+
+
+- name: BTRC Data Information System 
+  descr: "Data Information System is developed for managing various licensed internet service operator reporting to the Engineering & Operations Department of BTRC for their service continuation under service guideline."
+  demo: http://103.98.64.20/
+  tags:
+    - tag: PHP
+    - tag: Laravel
+    - tag: JavaScript
+    - tag: MySQL
+    - tag: Google Maps API
+    - tag: Bootstrap
+    - tag: Data Information System
+
+
+- name: Lesson Direct Website & CMS 
+  descr: "Lesson Direct Website & CMS is developed for an UK based company as part of job responsibility like requirements gathering, maintaining project timeline, managing team, database design etc"
+  demo: https://lessondirect.co.uk/
+  tags:
+    - tag: PHP
+    - tag: Laravel
+    - tag: JavaScript
+    - tag: MySQL
+    - tag: Bootstrap
+    - tag: Website & CMS
