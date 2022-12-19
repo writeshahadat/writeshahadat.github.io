@@ -5,8 +5,8 @@
     "scope": "/",
     "id": "writeshahadat.github.io",
     "start_url": "/",  
-    "background_color": "#ffffff",
-    "theme_color": "#ffffff",  
+    "background_color": "#2b2d2f",
+    "theme_color": "#2b2d2f",  
     "display": "standalone", 
     "icons": [
         {
