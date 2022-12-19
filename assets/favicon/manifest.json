@@ -1,0 +1,18 @@
+{
+    "name": "Shahadat Portfolio",
+    "short_name": "Shahadat Portfolio",
+    "description": "Personal Portfolio Page as a PWA",
+    "scope": "/",
+    "id": "writeshahadat.github.io",
+    "start_url": "/",  
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff",  
+    "display": "standalone", 
+    "icons": [
+        {
+          "src": "/assets/favicon/android-chrome-192x192.png",
+          "type": "image/png",
+          "sizes": "192x192"
+        }
+    ]
+  }
