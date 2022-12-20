@@ -11,7 +11,7 @@
       "value": ["#dc052d"]
     },
     "shape": {
-      "type": "polygon",
+      "type": ["circle","edge","polygon", "triangle", "star"],
       "stroke": {
         "width": 0,
         "color": "#000000"
