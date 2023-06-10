@@ -17,9 +17,28 @@
 #     - tag: Rails
 #   timeline-side: right
 
+- title: Next Wave
+  title-url: https://nextwave.com.bd/
+  date: March 2023 - Present
+  subtitle: Data Analyst/ Lead Software Engineer
+  tags:
+    - tag: Android
+    - tag: Flutter
+    - tag: WebOS
+    - tag: HTML5
+    - tag: JavaScript
+    - tag: CSS
+    - tag: Jekyll
+    - tag: MVC
+    - tag: Project Management
+    - tag: Asana
+    - tag: ClickUp
+    - tag: Basecamp
+  timeline-side: left
+
 - title: Lusaka Group
   title-url: https://www.lusakagroupbd.com/
-  date: Sep 2020 - Present
+  date: Sep 2020 - Feb 2023
   subtitle: Lead Software Engineer
   tags:
     - tag: Android
