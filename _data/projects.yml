@@ -62,7 +62,7 @@
 
 - name: BTRC Internal Administrative Services 
   descr: "Internal Administrative Services is developed for managing various internal services like Office Supply, Furniture & IT Equipments Requisition & Allotment, Meeting Room Management & Allotment, Refreshments & IT Support, Car Allotment & Managing IT Support Ticket Management for BTRC Officers as a stepping stone to paperless office."
-  demo: http://103.98.64.124/
+  demo: http://ias.btrc.gov.bd/
   tags:
     - tag: PHP
     - tag: Laravel
@@ -87,7 +87,7 @@
 
 - name: BTRC Data Information System 
   descr: "Data Information System is developed for managing various licensed internet service operator reporting to the Engineering & Operations Department of BTRC for their service continuation under service guideline."
-  demo: http://103.98.64.20/
+  demo: http://dis.btrc.gov.bd/
   tags:
     - tag: PHP
     - tag: Laravel
