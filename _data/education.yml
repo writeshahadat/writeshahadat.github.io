@@ -1,0 +1,48 @@
+# > title: Name of your timeline entry, university or work place
+# > title-url: Link to your timeline entry, university or work place
+# > date: Time span
+# > subtitle: The description under the title
+# > tags: List of tags you want to associate with the entry
+# > timeline-side: The side on which you want to display the entry: left or right
+
+# Example of a timeline entry
+# - title: airbnb
+#   title-url: https://example.com/
+#   date: Sep 2019 - Present
+#   subtitle: Fullstack Developer
+#   tags:
+#     - tag: React
+#     - tag: Javascript
+#     - tag: Ruby
+#     - tag: Rails
+#   timeline-side: right
+
+- title: Google Career Certificates by Google at Coursera
+  title-url: https://www.coursera.org/account/accomplishments/specialization/certificate/KKQRW6XDUEGH
+  date: 2022
+  subtitle: Google Project Management
+  timeline-side: left
+
+- title: BASIS Institute of Technology & Management
+  title-url: http://www.bitm.org.bd/
+  date: 2016
+  subtitle: Mobile App Development Training
+  timeline-side: right
+
+- title: American International University - Bangladesh
+  title-url: https://www.aiub.edu/
+  date: 2012 - 2016
+  subtitle: B.Sc. in Computer Science
+  timeline-side: left
+
+- title: Dhaka Imperial College
+  title-url: https://imperialcollege.edu.bd/
+  date: 2008 - 2010
+  subtitle: H.S.C. in Science
+  timeline-side: right
+
+- title: Khalilur Rahman High School
+  title-url: https://www.facebook.com/KhalilurRahamanHighSchool
+  date: 2006 - 2008
+  subtitle: S.S.C. in Science
+  timeline-side: left

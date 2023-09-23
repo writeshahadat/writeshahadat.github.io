@@ -13,21 +13,98 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: project X
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+- name: My Ludo
+  descr: "One of several Ludo Multi-Player Online Game project I have worked on over the years as a Freelance work."
+  demo: https://play.google.com/store/apps/details?id=com.myfavgame.myludo
   tags:
-    - tag: MongoDB
-    - tag: Express
-    - tag: AngularJS
-    - tag: Node
+    - tag: Android
+    - tag: Kotlin
+    - tag: XML
+    - tag: Firebase
+    - tag: Online
+    - tag: Multi-Player
+    - tag: Game
 
-- name: project Y
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+- name: Ludo Time
+  descr: "Developed the Online Multi-Player Game as part of BrandStudioLab Team with 2 other team members."
+  demo: https://codecanyon.net/item/ludo-time-multiplayer-online-ludo-game/32974811
   tags:
-    - tag: Python
-    - tag: Django
+    - tag: Android
+    - tag: Kotlin
+    - tag: XML
+    - tag: Firebase
+    - tag: Online
+    - tag: Multi-Player
+    - tag: Game
 
-- name: project Z
-  descr: "You can also set a project without demo link and no tags"
+- name: Think Hopeful
+  descr: "Anonymous mental wellness online support platform for organization based users worked as part of job responsibility like requirements gathering, maintaining project timeline, managing team etc."
+  demo: https://www.thinkhopeful.com/
+  tags:
+    - tag: C#
+    - tag: ASP.NET
+    - tag: JavaScript
+    - tag: Zoom API
+    - tag: Video Support
+
+
+
+- name: ARC CRM
+  descr: "Customer Relationship Management for Canada based company ARC Survey as part of job responsibility like requirements gathering, maintaining project timeline, managing team, database design etc."
+  demo: https://www.arcsurveys.ca/
+  tags:
+    - tag: PHP
+    - tag: Laravel
+    - tag: JavaScript
+    - tag: Google Maps API
+    - tag: Twilio API
+
+
+- name: BTRC Internal Administrative Services 
+  descr: "Internal Administrative Services is developed for managing various internal services like Office Supply, Furniture & IT Equipments Requisition & Allotment, Meeting Room Management & Allotment, Refreshments & IT Support, Car Allotment & Managing IT Support Ticket Management for BTRC Officers as a stepping stone to paperless office."
+  demo: http://ias.btrc.gov.bd/
+  tags:
+    - tag: PHP
+    - tag: Laravel
+    - tag: JavaScript
+    - tag: MySQL
+    - tag: Twilio API
+    - tag: GP VTS
+    - tag: Resource Management System
+
+
+- name: LGED Vehicle Management System 
+  descr: "Vehicle Management System is developed for managing the entire fleet of vehicle owned & managed by the Local Governement Engineering Department (LGED) which has the largest fleet in Government sector"
+  demo: http://103.140.64.98/vms
+  tags:
+    - tag: ASP.Net
+    - tag: MVC
+    - tag: JavaScript
+    - tag: SQL
+    - tag: Oracle
+    - tag: Resource Management System
+
+
+- name: BTRC Data Information System 
+  descr: "Data Information System is developed for managing various licensed internet service operator reporting to the Engineering & Operations Department of BTRC for their service continuation under service guideline."
+  demo: http://dis.btrc.gov.bd/
+  tags:
+    - tag: PHP
+    - tag: Laravel
+    - tag: JavaScript
+    - tag: MySQL
+    - tag: Google Maps API
+    - tag: Bootstrap
+    - tag: Data Information System
+
+
+- name: Lesson Direct Website & CMS 
+  descr: "Lesson Direct Website & CMS is developed for an UK based company as part of job responsibility like requirements gathering, maintaining project timeline, managing team, database design etc"
+  demo: https://lessondirect.co.uk/
+  tags:
+    - tag: PHP
+    - tag: Laravel
+    - tag: JavaScript
+    - tag: MySQL
+    - tag: Bootstrap
+    - tag: Website & CMS
