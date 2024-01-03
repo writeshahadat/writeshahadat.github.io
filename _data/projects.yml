@@ -37,17 +37,6 @@
     - tag: Multi-Player
     - tag: Game
 
-- name: Think Hopeful
-  descr: "Anonymous mental wellness online support platform for organization based users worked as part of job responsibility like requirements gathering, maintaining project timeline, managing team etc."
-  demo: https://www.thinkhopeful.com/
-  tags:
-    - tag: C#
-    - tag: ASP.NET
-    - tag: JavaScript
-    - tag: Zoom API
-    - tag: Video Support
-
-
 
 - name: ARC CRM
   descr: "Customer Relationship Management for Canada based company ARC Survey as part of job responsibility like requirements gathering, maintaining project timeline, managing team, database design etc."
